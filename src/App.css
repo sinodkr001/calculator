@@ -1,0 +1,4 @@
+.btn {
+  @apply bg-purple-300 text-white text-xl rounded-lg p-4 shadow-lg;
+  @apply hover:bg-purple-400 active:bg-purple-500;
+}
